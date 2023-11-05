@@ -1,4 +1,16 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is keven klynsman.</h2>
+
+###
+
+<img align="right" height="200" src="https://cdn.picrew.me/shareImg/org/202311/2200817_HgS2Uh3N.png"  />
+
+###
+
+<h3 align="left">front end web developer 💻</h3>
+
+###
+
+<p align="left">- 🏠I live in Belém-PA<br><br>- 🖤I love the world of technology<br><br>-  🧑🏾💻Systems analysis and development course, centro universitário Leonardo da vinci - (Uniasselvi)</p>
 
 ###
 
@@ -10,15 +22,7 @@
 
 ###
 
-<img align="right" height="200" src="https://cdn.picrew.me/shareImg/org/202311/2200817_HgS2Uh3N.png"  />
-
-###
-
 <h3 align="left">👩🏾‍💻About me 🔗</h3>
-
-###
-
-<p align="left">- 🏠I live in Belém-PA<br><br>- 🖤I love the world of technology<br><br>-  🧑🏾💻Systems analysis and development course, centro universitário Leonardo da vinci - (Uniasselvi)</p>
 
 ###
 
